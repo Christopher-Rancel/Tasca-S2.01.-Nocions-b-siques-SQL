@@ -49,3 +49,11 @@ Aquesta relació es crea amb una FK:
 ```sql
 FOREIGN KEY (company_id) REFERENCES company(id)
 ```
+
+## Codi
+```sql
+SHOW tables;
+
+DESCRIBE company;
+DESCRIBE transaction;
+```
