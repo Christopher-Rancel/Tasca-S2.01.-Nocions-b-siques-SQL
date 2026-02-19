@@ -11,9 +11,9 @@ Durant l’activitat es treballarà amb dades relacionades amb:
 
 ---
 
-# Nivell 1
+# Nivell_1
 
-## Exercici 1
+## Exercici_1
 
 A partir dels documents adjunts (`estructura_dades` i `dades_introduir`), s’importen les dues taules.
 
@@ -25,7 +25,7 @@ Cal:
 
 ---
 
-## Exercici 2
+## Exercici_2
 
 Utilitzant **JOIN**, realitzar les següents consultes:
 
@@ -35,7 +35,7 @@ Utilitzant **JOIN**, realitzar les següents consultes:
 
 ---
 
-## Exercici 3
+## Exercici_3
 
 Utilitzant només **subconsultes** (sense utilitzar JOIN):
 
@@ -45,9 +45,9 @@ Utilitzant només **subconsultes** (sense utilitzar JOIN):
 
 ---
 
-# Nivell 2
+# Nivell_2
 
-## Exercici 1
+## Exercici_1
 
 Identificar els cinc dies en què es va generar la quantitat més gran d’ingressos per vendes.
 
@@ -58,7 +58,7 @@ Mostrar:
 
 ---
 
-## Exercici 2
+## Exercici_2
 
 Calcular la mitjana de vendes per país.
 
@@ -66,7 +66,7 @@ Presentar els resultats ordenats de major a menor mitjana.
 
 ---
 
-## Exercici 3
+## Exercici_3
 
 Es planteja un nou projecte per llançar campanyes publicitàries per competir amb la companyia **"Non Institute"**.
 
@@ -81,9 +81,9 @@ Mostrar el llistat:
 
 ---
 
-# Nivell 3
+# Nivell_3
 
-## Exercici 1
+## Exercici_1
 
 Presentar:
 
@@ -103,7 +103,7 @@ Ordenar els resultats de major a menor quantitat.
 
 ---
 
-## Exercici 2
+## Exercici_2
 
 Es necessita optimitzar l’assignació de recursos segons la capacitat operativa requerida.
 
