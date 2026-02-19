@@ -1,4 +1,4 @@
-## 📌 Descripció
+## Descripció
 
 En aquest exercici he creat una base de dades en MySQL formada per dues taules: `company` i `transaction`.
 
@@ -6,9 +6,9 @@ L’objectiu és guardar informació sobre empreses i registrar les transaccions
 
 ---
 
-## 🗄 Estructura de la base de dades
+## Estructura de la base de dades
 
-### 🔹 Taula `company`
+### Taula `company`
 
 Aquesta taula guarda la informació de les empreses:
 
@@ -21,7 +21,7 @@ Aquesta taula guarda la informació de les empreses:
 
 ---
 
-### 🔹 Taula `transaction`
+### Taula `transaction`
 
 Aquesta taula guarda les transaccions realitzades:
 
@@ -36,7 +36,7 @@ Aquesta taula guarda les transaccions realitzades:
 
 ---
 
-## 🔗 Relació entre les taules
+## Relació entre les taules
 
 Existeix una relació **1:N**:
 
